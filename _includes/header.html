@@ -1,0 +1,23 @@
+<header class="site-header" role="banner">
+  <div class="wrapper">
+    <a class="site-title" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
+
+    <nav class="site-nav" aria-label="Primary">
+      <input type="checkbox" id="nav-trigger" class="nav-trigger" />
+      <label for="nav-trigger">
+        <span class="menu-icon">
+          <svg viewBox="0 0 18 15" width="18" height="15" aria-hidden="true" focusable="false">
+            <path d="M18 1.5c0 .83-.67 1.5-1.5 1.5h-15C.67 3 0 2.33 0 1.5S.67 0 1.5 0h15C17.33 0 18 .67 18 1.5zm0 6c0 .83-.67 1.5-1.5 1.5h-15C.67 9 0 8.33 0 7.5S.67 6 1.5 6h15C17.33 6 18 6.67 18 7.5zm0 6c0 .83-.67 1.5-1.5 1.5h-15C.67 15 0 14.33 0 13.5S.67 12 1.5 12h15c.83 0 1.5.67 1.5 1.5z"/>
+          </svg>
+        </span>
+      </label>
+
+      <div class="trigger">
+        {% assign nav_pages = site.pages | where: "nav", true | sort: "nav_order" %}
+        {% for nav_page in nav_pages %}
+          <a class="page-link" href="{{ nav_page.url | relative_url }}">{{ nav_page.title | escape }}</a>
+        {% endfor %}
+      </div>
+    </nav>
+  </div>
+</header>

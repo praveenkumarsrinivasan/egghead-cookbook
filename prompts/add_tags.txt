@@ -1,0 +1,6 @@
+Update all recipe markdown files to include:
+- category
+- tags
+- cooking_method
+- protein
+in the YAML front matter.

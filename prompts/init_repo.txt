@@ -1,0 +1,18 @@
+Create a GitHub Pages Jekyll cookbook repository with the following structure:
+
+- _config.yml
+- index.md
+- recipes.md
+- recipes/lamb/index.md
+- recipes/lamb/four-saucemen-nz-lamb-rack.md
+- recipes/beef/index.md
+- recipes/pork/index.md
+- recipes/chicken/index.md
+- recipes/seafood/index.md
+- recipes/vegetarian/index.md
+- recipes/sides/index.md
+- assets/images/
+
+Use the Minima theme.
+Add proper Jekyll front matter to all markdown files.
+Populate the lamb recipe using the Big Green Egg recipe template.

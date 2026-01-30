@@ -1,0 +1,7 @@
+title: BGE Cookbook
+description: Big Green Egg recipes and notes.
+url: ""
+baseurl: ""
+theme: minima
+markdown: kramdown
+plugins: []

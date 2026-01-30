@@ -1,0 +1,4 @@
+Standardise all category index.md files so they:
+- Have a title
+- Explain what recipes belong in the category
+- Contain a placeholder bullet list for recipes
