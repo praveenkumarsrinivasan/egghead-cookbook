@@ -1,0 +1,34 @@
+Goal: Convert this repo from Jekyll GitHub Pages to MkDocs Material with search and GitHub Actions deployment.
+
+Please do the following, making minimal disruptive changes:
+
+1) Create a docs/ directory and move the site content into it:
+   - Move index.md -> docs/index.md (create if missing)
+   - Move recipes.md -> docs/recipes.md (create if missing)
+   - Move recipes/ -> docs/recipes/
+   - Move assets/ -> docs/assets/ (if exists)
+   - If there are Jekyll-specific files like _config.yml, keep them for now but we won't use them.
+
+2) Add mkdocs.yml at repo root using Material theme and search plugin.
+   - Use a nav with Home, Categories, and a Recipes section listing each category index.
+   - Ensure paths match the docs/ layout.
+
+3) Add a GitHub Actions workflow at .github/workflows/deploy.yml that:
+   - runs on push to main and workflow_dispatch
+   - installs mkdocs-material (or requirements.txt if present)
+   - runs: mkdocs gh-deploy --force
+   - writes to gh-pages branch
+
+4) Add requirements.txt (pin mkdocs-material) if missing.
+
+5) Update README.md (or create it) with:
+   - local dev instructions: python venv, pip install -r requirements.txt, mkdocs serve
+   - deployment notes: GitHub Pages should point to gh-pages branch
+
+6) Ensure all markdown links still work after moves.
+   - Fix any relative links that broke due to the docs/ move.
+   - Keep recipe pages readable in MkDocs.
+
+7) Provide a short checklist at the end: commands to run mkdocs serve locally, and git commands to commit.
+
+Do the edits directly in the repo. Prefer moving files over copying.

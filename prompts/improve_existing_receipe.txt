@@ -1,0 +1,2 @@
+Improve the cooking steps in recipes/lamb/four-saucemen-nz-lamb-rack.md
+to be clearer and more concise without changing the method.

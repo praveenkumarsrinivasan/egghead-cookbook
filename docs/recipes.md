@@ -8,13 +8,16 @@ nav_order: 2
 
 Browse by category:
 
-- [Lamb](/recipes/lamb/)
-- [Beef](/recipes/beef/)
-- [Pork](/recipes/pork/)
-- [Chicken](/recipes/chicken/)
-- [Seafood](/recipes/seafood/)
-- [Vegetarian](/recipes/vegetarian/)
-- [Sides](/recipes/sides/)
+- [Lamb](recipes/lamb/)
+- [Beef](recipes/beef/)
+- [Pork](recipes/pork/)
+- [Chicken](recipes/chicken/)
+- [Seafood](recipes/seafood/)
+- [Sauces/Condiments](recipes/sauces-condiments/)
+- [Vegetarian](recipes/vegetarian/)
+- [Sides](recipes/sides/)
+- [Desserts](recipes/desserts/)
+- [Techniques](recipes/techniques/)
 
 ## All recipes
 
@@ -23,7 +26,12 @@ Browse by category:
 <ul class="recipe-index">
   {% for recipe in recipe_pages %}
     {% assign parts = recipe.dir | split: "/" %}
-    {% assign category = parts[2] | capitalize %}
+    {% assign raw_category = parts[2] %}
+    {% if raw_category == "sauces-condiments" %}
+      {% assign category = "Sauces/Condiments" %}
+    {% else %}
+      {% assign category = raw_category | capitalize %}
+    {% endif %}
     <li>
       <a href="{{ recipe.url }}">{{ recipe.title }}</a> ({{ category }})
     </li>

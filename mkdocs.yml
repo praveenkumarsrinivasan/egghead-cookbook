@@ -1,0 +1,24 @@
+site_name: BGE Cookbook
+site_url: https://praveenkumarsrinivasan.github.io/bge-cookbook/
+repo_url: https://github.com/praveenkumarsrinivasan/bge-cookbook
+repo_name: praveenkumarsrinivasan/bge-cookbook
+theme:
+  name: material
+
+plugins:
+  - search
+
+nav:
+  - Home: index.md
+  - Categories: recipes.md
+  - Recipes:
+      - Beef: recipes/beef/index.md
+      - Chicken: recipes/chicken/index.md
+      - Lamb: recipes/lamb/index.md
+      - Pork: recipes/pork/index.md
+      - Seafood: recipes/seafood/index.md
+      - Sauces/Condiments: recipes/sauces-condiments/index.md
+      - Sides: recipes/sides/index.md
+      - Vegetarian: recipes/vegetarian/index.md
+      - Desserts: recipes/desserts/index.md
+      - Techniques: recipes/techniques/index.md

@@ -1,0 +1,5 @@
+Create a new recipe markdown file at:
+recipes/beef/pepper-crusted-ribeye.md
+
+Use the standard Big Green Egg recipe template.
+Cooking method: reverse sear.
