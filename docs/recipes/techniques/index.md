@@ -1,7 +1,3 @@
----
-layout: page
-title: Techniques
-permalink: /recipes/techniques/
----
+# Techniques
 
 - [Big Green Egg Process](big-green-egg-process/)

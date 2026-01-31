@@ -1,8 +1,4 @@
----
-layout: page
-title: "Vermouth Jus Gras"
-permalink: /recipes/sauces-condiments/vermouth-jus-gras/
----
+# Vermouth Jus Gras
 
 ## Overview
 

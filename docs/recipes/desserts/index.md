@@ -1,7 +1,3 @@
----
-layout: page
-title: Desserts
-permalink: /recipes/desserts/
----
+# Desserts
 
 - [Baked Cheesecake](baked-cheesecake/)

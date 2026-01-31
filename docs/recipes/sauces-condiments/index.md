@@ -1,8 +1,4 @@
----
-layout: page
-title: Sauces/Condiments
-permalink: /recipes/sauces-condiments/
----
+# Sauces/Condiments
 
 - [Easy Argentinian Chimichurri Sauce](easy-argentinian-chimichurri-sauce/)
 - [Ssamjang Korean Dipping Sauce](ssamjang-korean-dipping-sauce/)

@@ -1,7 +1,3 @@
----
-layout: page
-title: Seafood
-permalink: /recipes/seafood/
----
+# Seafood
 
-Coming soon.
+No recipes yet.

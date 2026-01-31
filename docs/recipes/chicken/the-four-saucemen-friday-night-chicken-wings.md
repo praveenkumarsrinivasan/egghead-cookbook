@@ -1,8 +1,4 @@
----
-layout: page
-title: "The Four Saucemen Friday Night Chicken Wings"
-permalink: /recipes/chicken/the-four-saucemen-friday-night-chicken-wings/
----
+# The Four Saucemen Friday Night Chicken Wings
 
 ## Overview
 

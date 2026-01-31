@@ -1,8 +1,4 @@
----
-layout: page
-title: "Mexican Street Corn"
-permalink: /recipes/sides/mexican-street-corn/
----
+# Mexican Street Corn
 
 ## Overview
 

@@ -1,8 +1,4 @@
----
-layout: page
-title: "Reverse Seared Picanha"
-permalink: /recipes/beef/reverse-seared-picanha/
----
+# Reverse Seared Picanha
 
 ## Recipe Essentials
 

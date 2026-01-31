@@ -1,8 +1,4 @@
----
-layout: page
-title: "Baked Cheesecake"
-permalink: /recipes/desserts/baked-cheesecake/
----
+# Baked Cheesecake
 
 ## Recipe Essentials
 

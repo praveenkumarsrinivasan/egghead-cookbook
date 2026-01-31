@@ -1,8 +1,4 @@
----
-layout: page
-title: "Sprits"
-permalink: /recipes/sides/sprits/
----
+# Sprits
 
 ## Overview
 

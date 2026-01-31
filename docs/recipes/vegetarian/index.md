@@ -1,7 +1,3 @@
----
-layout: page
-title: Vegetarian
-permalink: /recipes/vegetarian/
----
+# Vegetarian
 
-Coming soon.
+No recipes yet.

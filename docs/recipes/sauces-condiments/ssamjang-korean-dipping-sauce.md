@@ -1,8 +1,4 @@
----
-layout: page
-title: "Ssamjang Korean Dipping Sauce"
-permalink: /recipes/sauces-condiments/ssamjang-korean-dipping-sauce/
----
+# Ssamjang Korean Dipping Sauce
 
 ## Overview
 

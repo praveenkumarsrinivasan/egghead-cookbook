@@ -1,8 +1,4 @@
----
-layout: page
-title: "The Four Saucemen BBQ Beef Cheeks"
-permalink: /recipes/beef/the-four-saucemen-bbq-beef-cheeks/
----
+# The Four Saucemen BBQ Beef Cheeks
 
 ## Overview
 

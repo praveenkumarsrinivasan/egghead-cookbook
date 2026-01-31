@@ -5,6 +5,9 @@ repo_name: praveenkumarsrinivasan/bge-cookbook
 theme:
   name: material
 
+extra:
+  generator: false
+
 plugins:
   - search
 

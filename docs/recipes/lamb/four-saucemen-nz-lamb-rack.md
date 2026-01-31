@@ -1,8 +1,4 @@
----
-layout: page
-title: "Four Saucemen NZ Lamb Rack"
-permalink: /recipes/lamb/four-saucemen-nz-lamb-rack/
----
+# Four Saucemen NZ Lamb Rack
 
 ## Recipe Essentials
 

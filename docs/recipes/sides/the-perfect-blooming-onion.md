@@ -1,8 +1,4 @@
----
-layout: page
-title: "The Perfect Blooming Onion"
-permalink: /recipes/sides/the-perfect-blooming-onion/
----
+# The Perfect Blooming Onion
 
 ## Recipe Essentials
 

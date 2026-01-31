@@ -1,8 +1,4 @@
----
-layout: page
-title: "Tri Tip with Blue Cheese Smoked Paprika Butter"
-permalink: /recipes/beef/tri-tip/
----
+# Tri Tip with Blue Cheese Smoked Paprika Butter
 
 ## Recipe Essentials
 

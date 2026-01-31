@@ -1,8 +1,4 @@
----
-layout: page
-title: "The Four Saucemen Brisket"
-permalink: /recipes/beef/the-four-saucemen-brisket/
----
+# The Four Saucemen Brisket
 
 ## Overview
 

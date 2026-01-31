@@ -1,8 +1,4 @@
----
-layout: page
-title: "The Four Saucemen BBQ Beef Short Ribs"
-permalink: /recipes/beef/the-four-saucemen-bbq-beef-short-ribs/
----
+# The Four Saucemen BBQ Beef Short Ribs
 
 ## Overview
 

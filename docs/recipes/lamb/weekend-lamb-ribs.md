@@ -1,8 +1,4 @@
----
-layout: page
-title: "Weekend Lamb Ribs"
-permalink: /recipes/lamb/weekend-lamb-ribs/
----
+# Weekend Lamb Ribs
 
 ## Overview
 

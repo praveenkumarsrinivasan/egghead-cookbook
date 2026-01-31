@@ -1,0 +1,36 @@
+receipe.md contains the following 
+
+{% assign recipe_pages = site.pages | where_exp: "p", "p.dir contains '/recipes/'" | where_exp: "p", "p.name != 'index.md'" | sort: "title" %}
+{% if recipe_pages.size > 0 %}
+<ul class="recipe-index">
+  {% for recipe in recipe_pages %}
+    {% assign parts = recipe.dir | split: "/" %}
+    {% assign raw_category = parts[2] %}
+    {% if raw_category == "sauces-condiments" %}
+      {% assign category = "Sauces/Condiments" %}
+    {% else %}
+      {% assign category = raw_category | capitalize %}
+    {% endif %}
+    <li>
+      <a href="{{ recipe.url }}">{{ recipe.title }}</a> ({{ category }})
+    </li>
+  {% endfor %}
+</ul>
+{% else %}
+No recipes yet.
+{% endif %}
+
+
+once the site is built it displays the following when visting the deployed site
+
+{% assign recipe_pages = site.pages | where_exp: "p", "p.dir contains '/recipes/'" | where_exp: "p", "p.name != 'index.md'" | sort: "title" %} {% if recipe_pages.size > 0 %}
+
+{% for recipe in recipe_pages %} {% assign parts = recipe.dir | split: "/" %} {% assign raw_category = parts[2] %} {% if raw_category == "sauces-condiments" %} {% assign category = "Sauces/Condiments" %} {% else %} {% assign category = raw_category | capitalize %} {% endif %}
+{{ recipe.title }} ({{ category }})
+{% endfor %}
+{% else %} No recipes yet. {% endif %}
+
+
+please update receipe.md to fix this. 
+it could the code from jekyll. the repo since has been moved to mkdocs.
+updat this page to work accordingly to display all the receipes 

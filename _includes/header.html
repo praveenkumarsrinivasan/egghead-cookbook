@@ -1,6 +1,12 @@
 <header class="site-header" role="banner">
   <div class="wrapper">
-    <a class="site-title" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
+    <a class="site-title" rel="author" href="{{ "/" | relative_url }}">
+      {% if site.logo %}
+        <img src="{{ site.logo | relative_url }}" alt="{{ site.title | escape }}" />
+      {% else %}
+        {{ site.title | escape }}
+      {% endif %}
+    </a>
 
     <nav class="site-nav" aria-label="Primary">
       <input type="checkbox" id="nav-trigger" class="nav-trigger" />

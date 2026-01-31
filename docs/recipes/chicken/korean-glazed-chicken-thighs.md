@@ -1,8 +1,4 @@
----
-layout: page
-title: "Korean Glazed Chicken Thighs"
-permalink: /recipes/chicken/korean-glazed-chicken-thighs/
----
+# Korean Glazed Chicken Thighs
 
 ## Overview
 

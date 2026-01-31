@@ -1,8 +1,4 @@
----
-layout: page
-title: "The Four Saucemen BBQ Pork Ribs"
-permalink: /recipes/pork/the-four-saucemen-bbq-pork-ribs/
----
+# The Four Saucemen BBQ Pork Ribs
 
 ## Recipe Essentials
 

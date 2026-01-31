@@ -1,8 +1,4 @@
----
-layout: page
-title: "The Four Saucemen BBQ Pulled Pork"
-permalink: /recipes/pork/the-four-saucemen-bbq-pulled-pork/
----
+# The Four Saucemen BBQ Pulled Pork
 
 ## Recipe Essentials
 

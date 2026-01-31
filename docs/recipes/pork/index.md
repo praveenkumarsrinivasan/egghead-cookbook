@@ -1,8 +1,4 @@
----
-layout: page
-title: Pork
-permalink: /recipes/pork/
----
+# Pork
 
 - [Carolina Pulled Pork Shoulder](carolina-pulled-pork-shoulder/)
 - [The Four Saucemen BBQ Pork Ribs](the-four-saucemen-bbq-pork-ribs/)

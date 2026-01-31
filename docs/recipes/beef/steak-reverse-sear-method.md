@@ -1,8 +1,4 @@
----
-layout: page
-title: "The Four Saucemen Steak Reverse Sear Method"
-permalink: /recipes/beef/steak-reverse-sear-method/
----
+# The Four Saucemen Steak Reverse Sear Method
 
 ## Recipe Essentials
 

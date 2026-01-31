@@ -1,8 +1,4 @@
----
-layout: page
-title: "Easy Argentinian Chimichurri Sauce"
-permalink: /recipes/sauces-condiments/easy-argentinian-chimichurri-sauce/
----
+# Easy Argentinian Chimichurri Sauce
 
 ## Overview
 

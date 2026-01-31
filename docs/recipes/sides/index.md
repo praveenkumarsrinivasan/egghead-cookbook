@@ -1,8 +1,4 @@
----
-layout: page
-title: Sides
-permalink: /recipes/sides/
----
+# Sides
 
 - [Mexican Street Corn](mexican-street-corn/)
 - [Sprits](sprits/)

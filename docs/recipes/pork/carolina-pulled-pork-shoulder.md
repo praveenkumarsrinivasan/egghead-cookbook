@@ -1,8 +1,4 @@
----
-layout: page
-title: "Carolina Pulled Pork Shoulder"
-permalink: /recipes/pork/carolina-pulled-pork-shoulder/
----
+# Carolina Pulled Pork Shoulder
 
 ## Overview
 

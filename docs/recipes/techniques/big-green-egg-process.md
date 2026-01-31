@@ -1,8 +1,4 @@
----
-layout: page
-title: "Big Green Egg Process"
-permalink: /recipes/techniques/big-green-egg-process/
----
+# Big Green Egg Process
 
 ## Overview
 

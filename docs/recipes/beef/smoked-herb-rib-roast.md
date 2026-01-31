@@ -1,8 +1,4 @@
----
-layout: page
-title: "Smoked Herb Rib Roast"
-permalink: /recipes/beef/smoked-herb-rib-roast/
----
+# Smoked Herb Rib Roast
 
 ## Recipe Essentials
 
