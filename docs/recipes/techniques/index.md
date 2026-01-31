@@ -1,3 +1,3 @@
 # Techniques
 
-- [Big Green Egg Process](big-green-egg-process/)
+- [Big Green Egg Process](big-green-egg-process.md)

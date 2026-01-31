@@ -1,3 +1,3 @@
 # Desserts
 
-- [Baked Cheesecake](baked-cheesecake/)
+- [Baked Cheesecake](baked-cheesecake.md)

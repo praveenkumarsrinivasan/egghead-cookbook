@@ -19,6 +19,12 @@ Open the local dev server printed by MkDocs (usually http://127.0.0.1:8000).
 mkdocs build
 ```
 
+## Update the index
+
+1. Edit `docs/index.md`.
+2. Save and preview with `mkdocs serve`.
+3. If you add a new top-level page, update `mkdocs.yml` under `nav`.
+
 ## Deploy
 
 If you use GitHub Pages via MkDocs, run:
