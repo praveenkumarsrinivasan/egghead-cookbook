@@ -1,0 +1,11 @@
+:root {
+  --md-primary-fg-color: #0b6b3f;
+  --md-primary-fg-color--light: #1b8450;
+  --md-primary-fg-color--dark: #085a35;
+  --md-accent-fg-color: #0b6b3f;
+  --md-accent-fg-color--transparent: #0b6b3f1a;
+}
+
+.love-emoji {
+  color: #0b6b3f;
+}

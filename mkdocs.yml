@@ -4,9 +4,19 @@ repo_url: https://github.com/praveenkumarsrinivasan/bge-cookbook
 repo_name: praveenkumarsrinivasan/bge-cookbook
 theme:
   name: material
+  logo: assets/images/BGE_Logo.png
+  palette:
+    - scheme: default
+      primary: custom
+      accent: custom
 
 extra:
   generator: false
+
+copyright: Made with Love <span class="love-emoji">💚</span> in NZ.
+
+extra_css:
+  - stylesheets/extra.css
 
 plugins:
   - search
