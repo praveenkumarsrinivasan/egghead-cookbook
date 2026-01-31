@@ -24,15 +24,26 @@ Browse by category:
 - [The Four Saucemen Brisket](recipes/beef/the-four-saucemen-brisket.md)
 - [The Four Saucemen Steak Reverse Sear Method](recipes/beef/steak-reverse-sear-method.md)
 - [Tri Tip with Blue Cheese Smoked Paprika Butter](recipes/beef/tri-tip.md)
+- [Beef Wellington](recipes/beef/beef-wellington.md)
+- [Brisket 101](recipes/beef/brisket-101.md)
+- [Easy Lasagna](recipes/beef/easy-lasagna.md)
+- [Pastrami](recipes/beef/pastrami.md)
+- [Steak 101](recipes/beef/steak-101.md)
 
 ### Chicken
 
 - [Korean Glazed Chicken Thighs](recipes/chicken/korean-glazed-chicken-thighs.md)
 - [The Four Saucemen Friday Night Chicken Wings](recipes/chicken/the-four-saucemen-friday-night-chicken-wings.md)
+- [Peruvian Wings with Aji Verde](recipes/chicken/peruvian-wings-aji-verde.md)
+- [Chicken 101](recipes/chicken/chicken-101.md)
+- [Chicken Shawarma](recipes/chicken/chicken-shawarma.md)
+- [Chinese Sticky Wings](recipes/chicken/chinese-sticky-wings.md)
+- [Rotisserie Turkey and Stuffing](recipes/chicken/rotisserie-turkey-stuffing.md)
 
 ### Lamb
 
 - [Four Saucemen NZ Lamb Rack](recipes/lamb/four-saucemen-nz-lamb-rack.md)
+- [Leg of Lamb for Big Green Egg](recipes/lamb/leg-of-lamb-for-big-green-egg.md)
 - [Weekend Lamb Ribs](recipes/lamb/weekend-lamb-ribs.md)
 
 ### Pork
@@ -40,22 +51,28 @@ Browse by category:
 - [Carolina Pulled Pork Shoulder](recipes/pork/carolina-pulled-pork-shoulder.md)
 - [The Four Saucemen BBQ Pork Ribs](recipes/pork/the-four-saucemen-bbq-pork-ribs.md)
 - [The Four Saucemen BBQ Pulled Pork](recipes/pork/the-four-saucemen-bbq-pulled-pork.md)
+- [Pork Chicharron](recipes/pork/pork-chicharron.md)
+- [Pulled Pork 101](recipes/pork/pulled-pork-101.md)
+- [Ribs 101](recipes/pork/ribs-101.md)
 
 ### Seafood
 
-No recipes yet.
+- [The Four Saucemen Jalapeno & Sweet Orange Rub Panko Crumbed Scallops](recipes/seafood/the-four-saucemen-jalapeno-sweet-orange-rub-panko-crumbed-scallops.md)
 
 ### Sauces/Condiments
 
 - [Easy Argentinian Chimichurri Sauce](recipes/sauces-condiments/easy-argentinian-chimichurri-sauce.md)
 - [Ssamjang Korean Dipping Sauce](recipes/sauces-condiments/ssamjang-korean-dipping-sauce.md)
 - [Vermouth Jus Gras](recipes/sauces-condiments/vermouth-jus-gras.md)
+- [Holy Voodoo Dry Rub](recipes/sauces-condiments/holy-voodoo-dry-rub.md)
+- [Ultimate Texas SPG Dry Rub](recipes/sauces-condiments/ultimate-texas-spg-dry-rub.md)
 
 ### Sides
 
 - [Mexican Street Corn](recipes/sides/mexican-street-corn.md)
 - [Sprits](recipes/sides/sprits.md)
 - [The Perfect Blooming Onion](recipes/sides/the-perfect-blooming-onion.md)
+- [Jalapeno Popper Dip](recipes/sides/jalapeno-popper-dip.md)
 
 ### Vegetarian
 
@@ -64,6 +81,7 @@ No recipes yet.
 ### Desserts
 
 - [Baked Cheesecake](recipes/desserts/baked-cheesecake.md)
+- [Cast Iron Layered Apple Pie](recipes/desserts/cast-iron-layered-apple-pie.md)
 
 ### Techniques
 

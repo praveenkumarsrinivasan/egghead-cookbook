@@ -7,3 +7,8 @@
 - [The Four Saucemen Brisket](the-four-saucemen-brisket.md)
 - [The Four Saucemen Steak Reverse Sear Method](steak-reverse-sear-method.md)
 - [Tri Tip with Blue Cheese Smoked Paprika Butter](tri-tip.md)
+- [Beef Wellington](beef-wellington.md)
+- [Brisket 101](brisket-101.md)
+- [Easy Lasagna](easy-lasagna.md)
+- [Pastrami](pastrami.md)
+- [Steak 101](steak-101.md)
