@@ -86,3 +86,4 @@ No recipes yet.
 ### Techniques
 
 - [Big Green Egg Process](recipes/techniques/big-green-egg-process.md)
+- [Meat Temperature Guide](recipes/techniques/meat-temperature-guide.md)
