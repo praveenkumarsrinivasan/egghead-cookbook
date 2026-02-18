@@ -50,7 +50,7 @@ A quick reference for steaming vegetables until perfectly cooked.
 - Add **dense vegetables first**, delicate ones later
 - Avoid overcrowding the steamer
 - Remove immediately to prevent carry-over cooking
+- For Fozen, add about 10 mins. Frozen Sweet Potato total cook time 40 mins
 
 ---
 
-*Last updated: {{ git_revision_date }}*

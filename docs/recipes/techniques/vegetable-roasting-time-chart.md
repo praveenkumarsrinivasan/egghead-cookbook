@@ -62,5 +62,3 @@ A quick reference for roasting vegetables until caramelised and perfectly cooked
 | High heat / deep roast | Avocado oil, rice bran oil |
 
 ---
-
-*Last updated: {{ git_revision_date }}*

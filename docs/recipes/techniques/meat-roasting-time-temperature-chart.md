@@ -85,5 +85,3 @@ Always cook meat to **internal temperature**, not time alone.
 - Use a **probe thermometer** for accuracy
 
 ---
-
-*Last updated: {{ git_revision_date }}*
