@@ -6,6 +6,13 @@
   --md-accent-fg-color--transparent: #0b6b3f1a;
 }
 
+.md-logo img {
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
+  background: white;
+  padding: 2px;
+}
+
 .love-emoji {
   color: #0b6b3f;
 }
