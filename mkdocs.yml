@@ -23,6 +23,7 @@ plugins:
 
 nav:
   - Home: index.md
+  - History: history.md
   - Categories: recipes.md
   - Recipes:
       - Beef:
