@@ -2,7 +2,19 @@
 
 ## Project Overview
 
-EggHead Cookbook — a recipe site built with MkDocs Material theme.
+EggHead Cookbook — a recipe site for Big Green Egg and kamado-style cooking, built with MkDocs Material theme.
+
+## Site Structure
+
+- `docs/index.md` — Homepage
+- `docs/history.md` — History of kamado & Big Green Egg
+- `docs/recipes.md` — All recipes index
+- `docs/recipes/<category>/` — Recipe categories: beef, chicken, lamb, pork, seafood, sauces-condiments, sides, vegetarian, desserts, techniques
+- `docs/assets/images/` — Images used across the site
+- `docs/stylesheets/extra.css` — Custom CSS (green theme, logo styling)
+- `mkdocs.yml` — Site config, navigation, theme, and extensions
+
+When adding a new page, update `mkdocs.yml` under `nav`.
 
 ## Setup
 
@@ -25,6 +37,12 @@ pip install -r requirements.txt
 ```
 
 Opens at http://127.0.0.1:8000 by default.
+
+## Deploy
+
+```bash
+.venv/bin/mkdocs gh-deploy
+```
 
 ## Image Generation (Nano Banana)
 
