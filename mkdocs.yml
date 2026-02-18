@@ -1,7 +1,7 @@
 site_name: EggHead Cookbook
-site_url: https://praveenkumarsrinivasan.github.io/bge-cookbook/
-repo_url: https://github.com/praveenkumarsrinivasan/bge-cookbook
-repo_name: praveenkumarsrinivasan/bge-cookbook
+site_url: https://praveenkumarsrinivasan.github.io/egghead-cookbook/
+repo_url: https://github.com/praveenkumarsrinivasan/egghead-cookbook
+repo_name: praveenkumarsrinivasan/egghead-cookbook
 theme:
   name: material
   logo: assets/images/egghead-icon-v2.jpg
