@@ -18,6 +18,9 @@ copyright: Made with Love <span class="love-emoji">💚</span> in NZ.
 extra_css:
   - stylesheets/extra.css
 
+markdown_extensions:
+  - attr_list
+
 plugins:
   - search
 
@@ -94,9 +97,8 @@ nav:
           - Cast Iron Layered Apple Pie: recipes/desserts/cast-iron-layered-apple-pie.md
       - Techniques:
           - Overview: recipes/techniques/index.md
+          - The Complete Temperature Guide: recipes/techniques/the-complete-temperature-guide.md
           - Big Green Egg Process: recipes/techniques/big-green-egg-process.md
-          - Meat Roasting Time & Temperature Chart: recipes/techniques/meat-roasting-time-temperature-chart.md
-          - Meat Temperature Guide: recipes/techniques/meat-temperature-guide.md
           - Le Creuset Rice Pot – Cooking Times & Ratios: recipes/techniques/le-creuset-rice-pot-cooking-times.md
           - Vegetable Roasting Time Chart: recipes/techniques/vegetable-roasting-time-chart.md
           - Vegetable Steaming Time Chart: recipes/techniques/vegetable-steaming-time-chart.md

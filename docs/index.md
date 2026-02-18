@@ -17,7 +17,7 @@ Your go-to collection of tried-and-tested recipes for the Big Green Egg and kama
 New to the Egg? Start here:
 
 - [Big Green Egg Process](recipes/techniques/big-green-egg-process.md)
-- [Meat Temperature Guide](recipes/techniques/meat-temperature-guide.md)
+- [The Complete Temperature Guide](recipes/techniques/the-complete-temperature-guide.md)
 - [Steak 101](recipes/beef/steak-101.md)
 - [Chicken 101](recipes/chicken/chicken-101.md)
 - [Brisket 101](recipes/beef/brisket-101.md)
