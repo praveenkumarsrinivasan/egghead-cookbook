@@ -7,8 +7,8 @@ Your go-to collection of tried-and-tested recipes for the Big Green Egg and kama
 ## Categories
 
 - [Beef](recipes/beef/index.md) (12) | [Chicken](recipes/chicken/index.md) (11) | [Lamb](recipes/lamb/index.md) (4)
-- [Pork](recipes/pork/index.md) (7) | [Seafood](recipes/seafood/index.md) (2) | [Sauces & Rubs](recipes/sauces-condiments/index.md) (5)
-- [Sides](recipes/sides/index.md) (5) | [Desserts](recipes/desserts/index.md) (2) | [Techniques](recipes/techniques/index.md) (6)
+- [Pork](recipes/pork/index.md) (7) | [Seafood](recipes/seafood/index.md) (2) | [Sauces/Condiments](recipes/sauces-condiments/index.md) (5)
+- [Sides](recipes/sides/index.md) (5) | [Desserts](recipes/desserts/index.md) (2) | [Techniques](recipes/techniques/index.md) (5)
 
 ---
 

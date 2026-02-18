@@ -95,7 +95,6 @@ No recipes yet.
 
 - [Big Green Egg Process](recipes/techniques/big-green-egg-process.md)
 - [Le Creuset Rice Pot – Cooking Times & Ratios](recipes/techniques/le-creuset-rice-pot-cooking-times.md)
-- [Meat Temperature Guide](recipes/techniques/meat-temperature-guide.md)
-- [🍖 Meat Roasting Time & Temperature Chart](recipes/techniques/meat-roasting-time-temperature-chart.md)
-- [🔥 Vegetable Roasting Time Chart](recipes/techniques/vegetable-roasting-time-chart.md)
-- [🥦 Vegetable Steaming Time Chart](recipes/techniques/vegetable-steaming-time-chart.md)
+- [The Complete Temperature Guide](recipes/techniques/the-complete-temperature-guide.md)
+- [Vegetable Roasting Time Chart](recipes/techniques/vegetable-roasting-time-chart.md)
+- [Vegetable Steaming Time Chart](recipes/techniques/vegetable-steaming-time-chart.md)
