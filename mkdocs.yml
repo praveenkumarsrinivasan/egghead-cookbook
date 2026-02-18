@@ -1,10 +1,10 @@
-site_name: BGE Cookbook
+site_name: EggHead Cookbook
 site_url: https://praveenkumarsrinivasan.github.io/bge-cookbook/
 repo_url: https://github.com/praveenkumarsrinivasan/bge-cookbook
 repo_name: praveenkumarsrinivasan/bge-cookbook
 theme:
   name: material
-  logo: assets/images/BGE_Logo.png
+  logo: assets/images/egghead-icon-v2.jpg
   palette:
     - scheme: default
       primary: custom
